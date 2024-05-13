@@ -1,0 +1,9 @@
+[
+    {
+        "type": "input",
+        "name": "comentario",
+        "placeholder": "Danos tu opinion.",
+        "label": "Comentarios",
+        "value": ""
+    }
+]
